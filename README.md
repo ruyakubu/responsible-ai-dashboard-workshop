@@ -1,6 +1,6 @@
 > 🎥 Click the image below for a video: Responsible AI dashboard capabilities and features
 
-[![Responsible AI dashboard video](https://img.youtube.com/vi/G-nBfBNvtg4/0.jpg)](https://youtu.be/G-nBfBNvtg4 "Responsible AI features") 
+<center>[![Responsible AI dashboard video](https://img.youtube.com/vi/G-nBfBNvtg4/0.jpg)](https://youtu.be/G-nBfBNvtg4 "Responsible AI features")</center>
 
 > 🎥 Click the image above for a video: Responsible AI dashboard capabilities and features
 
