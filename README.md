@@ -43,6 +43,7 @@ The workshop will cover the following components of the dashboard:
 - Open source tools for Responsible AI:
 
 ![OSS for RAI](img/RAI-OSS.png)
+
 The dashboard is built on some of machine learning’s best practice open-source tools for model debugging and assessment and responsible decision making that Microsoft and research community have been instrumental in developing — including ErrorAnalysis, InterpretML, Fairlearn, DICE, and EconML, for debugging and mitigating issues from AI models.
 
 
