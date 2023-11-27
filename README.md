@@ -1,4 +1,4 @@
-![Responsible AI dashboard video](https://youtu.be/G-nBfBNvtg4)
+![Responsible AI dashboard video](https://www.youtube.com/watch?v=G-nBfBNvtg4)
 
 [![Responsible AI dashboard video]
 (https://i.ytimg.com/vi/G-nBfBNvtg4/maxresdefault.jpg)] 
