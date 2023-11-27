@@ -1,6 +1,6 @@
 > 🎥 Click the image below for a video: Responsible AI dashboard capabilities and features
 
-<center>[![Responsible AI dashboard video](https://img.youtube.com/vi/G-nBfBNvtg4/0.jpg)](https://youtu.be/G-nBfBNvtg4 "Responsible AI features")</center>
+[![Responsible AI dashboard video](https://img.youtube.com/vi/G-nBfBNvtg4/0.jpg)](https://youtu.be/G-nBfBNvtg4 "Responsible AI features")
 
 > 🎥 Click the image above for a video: Responsible AI dashboard capabilities and features
 
@@ -8,15 +8,15 @@
 This workshop gives you a hands on experience on how to use an the Responsible AI dashboard from Azure Machine Learn to a trained classification model for diabetes hospital readmission. The lab will walk you through the steps of training a model, deploying it and then use the dashboard to debug and assess the model for fairness, inclusiveness, transparency, accountability and reliability.
 
 
-## Business Use Case Overview
-The project contain data and notebook scripts to train a classification model that we’ll use to analyze and resolve issues we find using Azure Machine Learning studio's new Responsible AI (RAI) dashboard. We will be using a Diabetes Hospital Readmission dataset to predict whether a diabetic patient will be Readmitted or Not Readmitted back in a hospital < 30 days after being discharged. 
+## Use Case Overview
+We will be using a Diabetes Hospital Readmission dataset to train a classification model that predicts whether a diabetic patient will be Readmitted or Not Readmitted back in a hospital < 30 days after being discharged. 
 
 ## Data
 We’ll be using the [UCI's Diabetes 130-US hospitals for years 1999–2008](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#) dataset
 
 ## Prerequisites
 - You do not need an Azure subscription to complete this hands-on workshop. 
-- Access the Microsoft Learn module [here](https://learn.microsoft.com/en-us/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/)
+- [Start workshop here](https://learn.microsoft.com/en-us/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/)
 
 # Workshop sections
 
@@ -40,20 +40,18 @@ The Feature Importance section of the RAI dashboard provides an interactive user
 
 # Let get started!
 
-* Access the Microsoft Learn module [here](https://learn.microsoft.com/en-us/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/)
+* [Start the workshop here](https://learn.microsoft.com/en-us/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/)
 
-# OSS technologies in the RAI dashboard
+## Additional References
+
+- [Understanding RAI dashboard controls & settings](https://aka.ms/MBRAIdashboardControls)
+- [Innovating Responsible AI: Videos, Projects, toolkits and Standards](https://www.microsoft.com/ai/ai-lab-responsible-ai-dashboard)
+
 ![OSS for RAI](img/RAI-OSS.png)
 
 The dashboard is built on some of machine learning’s best practice open-source tools for model debugging and assessment and responsible decision making that Microsoft and research community have been instrumental in developing — including ErrorAnalysis, InterpretML, Fairlearn, DICE, and EconML, for debugging and mitigating issues from AI models.
 
-# Additional References
-- [Understanding RAI dashboard controls & settings](https://aka.ms/MBRAIdashboardControls)
-- [Innovating Responsible AI: Videos, Projects, toolkits and Standards](https://www.microsoft.com/ai/ai-lab-responsible-ai-dashboard)
 
-## Discussion
-- How are you using RAI dashboard in your project?
-- What is your feedback after trying out the dashboard?
 
 
 
