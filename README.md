@@ -1,4 +1,8 @@
-![Responsible AI dashboard](https://youtu.be/G-nBfBNvtg4)
+![Responsible AI dashboard video](https://youtu.be/G-nBfBNvtg4)
+
+[![Responsible AI dashboard video]
+(https://i.ytimg.com/vi/G-nBfBNvtg4/maxresdefault.jpg)] 
+(https://www.youtube.com/watch?v=G-nBfBNvtg4)   
 
 # Responsible AI Dashboard workshop 
 This workshop gives you a hands on experience on how to use an the Responsible AI dashboard from Azure Machine Learn to a trained classification model for diabetes hospital readmission. The lab will walk you through the steps of training a model, deploying it and then use the dashboard to debug and assess the model for fairness, inclusiveness, transparency, accountability and reliability.
@@ -16,7 +20,7 @@ We’ll be using the [UCI's Diabetes 130-US hospitals for years 1999–2008](htt
 
 # Workshop sections
 
-The workshop will cover the following sections of the dashboard:
+The workshop will cover the following components of the dashboard:
 
 ## How to use Error Analysis 
 ![error analysis for RAI](img/ea-error-cohort.png)
@@ -33,10 +37,6 @@ Data Analysis helps exposed data discrepancy that are usually a blind spot for t
 ## How to use Feature Importance
 ![Feature Importance for RAI](img/fi-chart-default.png)
 The Feature Importance section of the RAI dashboard provides an interactive user interface (UI) that enables data scientists or AI developers to see top features in their dataset that drove a model’s prediction. In addition, it provides both global explanations and local explanations. With global explanation, the dashboard displays the top features that drove the model’s overall predictions. For local explanations, on the other hand, it shows which features drove a prediction for a specific individual or data point. The drives model explainability and transparency, which are important for building trust with your model. 
-
-## How to use Counterfactuals
-![Counterfactual for RAI](img/cf-whatif-overview.png)
-Counterfactual section that enables data scientists and decision-makers to observe the model’s prediction is a dataset and be able to generate a set of alternate examples with minimal changes to the original such that it’s able to change the model’s prediction. The capability shows the closest datapoints with opposite model precisions. In addition, the interactive user interface enables users to make custom what-if adjustments for individual data points to understand how the model reacts to data feature changes.
 
 # Let get started!
 
