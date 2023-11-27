@@ -1,8 +1,8 @@
-![Responsible AI dashboard video](https://www.youtube.com/watch?v=G-nBfBNvtg4)
+> 🎥 Click the image below for a video: Responsible AI dashboard capabilities and features
 
-[![Responsible AI dashboard video]
-(https://i.ytimg.com/vi/G-nBfBNvtg4/maxresdefault.jpg)] 
-(https://www.youtube.com/watch?v=G-nBfBNvtg4)   
+[![Responsible AI dashboard video](https://img.youtube.com/vi/G-nBfBNvtg4/0.jpg)](https://youtu.be/G-nBfBNvtg4 "Responsible AI features") 
+
+> 🎥 Click the image above for a video: Responsible AI dashboard capabilities and features
 
 # Responsible AI Dashboard workshop 
 This workshop gives you a hands on experience on how to use an the Responsible AI dashboard from Azure Machine Learn to a trained classification model for diabetes hospital readmission. The lab will walk you through the steps of training a model, deploying it and then use the dashboard to debug and assess the model for fairness, inclusiveness, transparency, accountability and reliability.
